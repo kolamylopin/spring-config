@@ -1,5 +1,2 @@
 application:
         description: This is the config server
-
-client:
-        username: prod-user
