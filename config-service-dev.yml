@@ -1,2 +1,3 @@
 application:
+        description: This is the config for dev envirnoment
         environment: dev
