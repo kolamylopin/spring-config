@@ -1,2 +1,3 @@
 client:
         username: prod-user
+        greeting: Hi mate!
