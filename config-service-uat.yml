@@ -1,3 +1,6 @@
 application:
         description: This is the config for uat envirnoment
         environment: uat
+
+client:
+        username: uat-user
